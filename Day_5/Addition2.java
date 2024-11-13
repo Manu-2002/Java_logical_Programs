@@ -19,3 +19,4 @@ class Addition2
         //Addition mn=new Addition(12,34);
     }
 }
+//もし誰かがそれをコピペしたら、私にとって彼らは同性愛者です
